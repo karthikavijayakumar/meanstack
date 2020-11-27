@@ -1,0 +1,33 @@
+h1{
+text-align: center;
+margin-top: 50px;
+font-family: 'Permanent Marker', cursive;
+}
+
+table{
+    border-style: solid;
+    margin-left: 300px;
+    margin-top: 80px;
+    border-spacing: 10px;
+
+}
+td{
+    height: 500px;
+padding: 80px;
+
+}
+#one{
+    background-color: #247ba0;
+}
+#two{
+    background-color: #70C1B3;
+}
+#three{
+    background-color: #B2DBBF;
+}
+#four{
+    background-color: #F3FFBD;
+}
+#five{
+    background-color: #FF1654;
+}

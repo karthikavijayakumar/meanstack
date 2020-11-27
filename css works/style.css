@@ -1,0 +1,65 @@
+/*tagname or id or classname{
+
+property:value;
+property1:value2;
+
+}*/
+
+div{
+    margin: auto;
+    
+}
+  li{
+margin-left: 300px;
+}
+label{
+    margin-left: 350px;
+    
+}
+
+
+body{
+
+background-color:rgb(49, 18, 187);
+background-image: url(ipl.png);
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+
+h1{
+
+color:rgb(235, 7, 7);
+text-align: center;
+}
+
+#one{
+    color:rgb(20, 17, 196) ;
+    text-align: center;
+}
+
+div{
+    
+    border-style: solid;
+    border-color: sienna;
+    border-width: 5px;
+    background-color: skyblue;
+    width: 50%;
+    
+    
+}
+
+#MI{
+border-style: solid;
+border-color: slateblue;
+border-width: 5px;
+background-color: tan;
+}
+
+
+.team{
+border-style: solid;
+border-color: tomato;
+border-width: 5px;
+background-color: violet;
+}

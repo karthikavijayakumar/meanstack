@@ -1,0 +1,33 @@
+#top{
+    border-style: solid;
+    border-color: darkred;
+    border-width: 6px;
+    width: 600px;
+    margin-left: 275px;
+    margin-top: 50px;
+    padding-left: 400px;
+    background-color: darkkhaki;
+    font-family: 'Berkshire Swash', cursive;
+
+
+}
+
+#bottom{
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 6px;
+    width: 600px;
+    margin-left: 275px;
+    margin-top: 500px;
+    padding-left: 400px;
+    background-color: darkseagreen;
+    font-family: 'Alex Brush', cursive;
+
+
+}
+
+h1{
+
+
+    font-family: 'Leckerli One', cursive;
+}
