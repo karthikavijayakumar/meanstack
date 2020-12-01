@@ -1,0 +1,64 @@
+h1{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+ .one{
+     margin-left: 70px;
+     font-size: 20px;
+     
+ }
+
+#two{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+h2{
+    margin-left: 70px;
+    margin-top: 50px;
+    font-size: 25px;
+    background-color: grey;
+}
+#three{
+    margin-left: 70px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+h3{
+    margin-left: 70px;
+    margin-top: 50px;
+    font-size: 25px;
+    box-sizing: border-box;
+    background-color: grey;
+    text-align: center;
+
+}
+.four{
+    margin-left: 80px;
+    font-size: 17px;
+   
+
+}
+h5{
+    font-size: 17px;
+}
+h4{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 25px;
+    box-sizing: border-box;
+    background-color: grey;
+    text-align: center;
+
+
+}
+.five{
+    margin-left: 150px;
+    font-size: 17px;
+}
+#last{
+    margin-left: 100px;
+}
+#sign{
+    margin-left: 1000px;
+}
